@@ -41,7 +41,7 @@ for cnt in contours:
     
     
     
-    For details in coading please follow the source code file uploaded in OpenCV 
+    For detailed coading please follow the source code file uploaded above
     
     
    
